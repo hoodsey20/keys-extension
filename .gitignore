@@ -2,3 +2,4 @@
 /public/
 /storybook-build/
 *.*.map
+.vscode/
